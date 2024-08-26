@@ -1,0 +1,48 @@
+To do: 
+
+1. ESB
+2. spring cloud Sleuth
+3. zipkin
+4. fault tolerance in circuit breaker
+5. kafka
+6. spring exception
+7. practical -- Log Aggregation
+9/ aurora db, argocd (nit bejoy)
+10. nextjs, web arpi -- shamim (Genpact)
+11. GenAI (Vivek Genpact, NIT inderjeet)
+12. Snowflake. Informatica, PowerBi, PowerApps, ServiceNow(Nit inderjeet)
+13. New Relic, Fiddler (Ashsh Wnakhede, Genpact)
+14. redis cache
+15. one service from another
+16. how to signal a failure in choreography
+17. oracle partition
+18. oracle connection pool
+19. data encryption
+20. Redux
+21. Monitoring tools - Prometheus, Grafana, Instana??
+22. CORE (naukri)
+23. Hive (naukri)
+24. Snpwflake (Naukri)
+25. AEM (naukri)
+26. Jasper (Naukri)
+26. IVR (N)
+27. Cisco USS (N)
+28. Kore.ai (N)
+29. glue (N)
+30. HIve (N)
+31.  IAM? (N)
+32. VBA (N)
+33.. Devsecops (N)
+34.  ATG  (N)
+35/. AUTOSAR (N)
+376. ML -- Torsoflow, Pytorch, Apache Airflow
+Testing tool: Cypress (N)
+
+
+
+
+
+
+
+
+Java, J2EE, Spring, Hibernate, Oracle, Microsrvices, SpringBoot, Angular, React, NodejS, Docker, Kubernetes, Kafka -- 60-%
